@@ -14,4 +14,12 @@
   - Out-of-sample forecasting
   - RMSE comparison vs random walk
 
+- **volatility_modeling.ipynb**
+  - ARCH effect testing
+  - Leverage effect demonstration
+  - GARCH/EGARCH/GJR-GARCH model fitting
+  - Standardized residuals analysis
+  - Rolling volatility forecasting
+  - VaR with dynamic volatility and Kupiec test
+
 To be continued...
