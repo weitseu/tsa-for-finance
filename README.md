@@ -24,5 +24,5 @@
 - **multivariate_time_series.ipynb**
   - VAR models, lag selection, and Granger causality
   - Impulse responses and the identification problem
-  - Cointegration (Engle-Granger) and pairs trading with backtesting and parameter sensitivity
+  - Cointegration (Engle-Granger) and pairs trading
   - Principal component analysis: the market factor
